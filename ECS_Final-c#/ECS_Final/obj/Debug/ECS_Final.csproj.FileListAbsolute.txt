@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\ECS_Final\ECS_Final\bin\Debug\ECS_Final.exe.config
+C:\Users\ADMIN\source\repos\ECS_Final\ECS_Final\bin\Debug\ECS_Final.exe
+C:\Users\ADMIN\source\repos\ECS_Final\ECS_Final\bin\Debug\ECS_Final.pdb
+C:\Users\ADMIN\source\repos\ECS_Final\ECS_Final\obj\Debug\ECS_Final.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\ECS_Final\ECS_Final\obj\Debug\ECS_Final.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\ECS_Final\ECS_Final\obj\Debug\ECS_Final.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\ECS_Final\ECS_Final\obj\Debug\ECS_Final.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\ECS_Final\ECS_Final\obj\Debug\ECS_Final.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ECS_Final\ECS_Final\obj\Debug\ECS_Final.exe
+C:\Users\ADMIN\source\repos\ECS_Final\ECS_Final\obj\Debug\ECS_Final.pdb
+C:\Users\ADMIN\source\repos\ECS_Final\ECS_Final\obj\Debug\ECS_Final.MainForm.resources
